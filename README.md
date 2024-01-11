@@ -16,3 +16,24 @@ Curso de Aplicaciones Progresivas
 <br>
 
 ---
+
+### Sección 2
+
+> [!NOTE]
+>
+> **Promise**
+>
+> - Promesas
+> - Promesas en cadena
+> - Promise.all
+> - Promise.race
+> - Fetch API
+> - Gets
+> - Posts
+> - Fetch de Blobs
+> - http-server
+>   \_\_
+
+<br>
+
+---
