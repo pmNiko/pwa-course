@@ -1,0 +1,15 @@
+{
+  "name": "01.fundamentos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server"
+  },
+  "keywords": [],
+  "author": "nikoDev <martin.paneblanco@smandes.gob.ar> (https://github.com/pmNiko)",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
