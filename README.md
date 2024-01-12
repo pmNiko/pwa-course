@@ -51,3 +51,20 @@ Curso de Aplicaciones Progresivas
 <br>
 
 ---
+
+### Sección 4
+
+> [!NOTE]
+>
+> **Services worker II**
+>
+> _Ciclo de vida_
+>
+> _Listeners_
+> 1. fetch
+> 2. sync
+> 3. install
+> 4. activate
+> 5. push
+> 
+>   \_\_
