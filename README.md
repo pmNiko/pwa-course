@@ -37,3 +37,17 @@ Curso de Aplicaciones Progresivas
 <br>
 
 ---
+
+### Sección 3
+
+> [!NOTE]
+>
+> **Services worker**
+>
+> - ¿cómo instalarlo? 
+> - ¿qué podemos hacer con él?
+>   \_\_
+
+<br>
+
+---
